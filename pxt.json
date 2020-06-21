@@ -1,8 +1,9 @@
 {
-    "name": "CATTYBATTY",
+    "name": "CATTYBATTY8",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "corgio": "*"
     },
     "description": "",
     "files": [
